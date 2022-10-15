@@ -1,0 +1,2 @@
+1|Martillo|Chanax|Golpear|unidad|Activo
+2|Destornillador|Novex|Golpear|unidad|Inactivo
